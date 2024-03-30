@@ -33,7 +33,7 @@ const Footer = () => {
               <li>Track Order</li>
             </ul>
           </Col>
-          <Col lg={3} md={6} className="text-center" >
+          <Col lg={3} md={6} className="text-center">
             <h5>Follow Us</h5>
             <ul className="list-unstyled">
               <li className="mb-2">
@@ -59,7 +59,7 @@ const Footer = () => {
         </Row>
       </Container>
       <div className="text-center mt-4">
-        <p>Copyright &copy; 2024 Apna Store. All rights reserved.</p>
+        <p>Copyright &copy; 2024 Online Shopping. All rights reserved.</p>
       </div>
     </footer>
   );
